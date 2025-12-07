@@ -1,0 +1,7 @@
+node_modules/
+.env
+.DS_Store
+*.log
+uploads/
+.env.example
+.AWS_S3_SETUP_GUIDE.md
